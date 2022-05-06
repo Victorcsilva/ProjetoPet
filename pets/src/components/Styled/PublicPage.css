@@ -2,10 +2,13 @@
 .Dogs{
     width: 1200px;
     margin-left: 40%;
+    position: absolute;
+    margin-top: 500px;
 }
 
 .cardpublic{
     margin-left: 100px;
-    display:contents;
-
+    display:flex;
+    height: 100vh;
+    width: 100%;
 }

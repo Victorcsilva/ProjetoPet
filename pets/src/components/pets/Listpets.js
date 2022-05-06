@@ -65,6 +65,7 @@ function Listpets() {
         <select name='gender'className='inputclass'>
               <option value="Macho">Macho</option>
               <option  value="Fêmea">Fêmea</option> 
+              <option  value="naobinario">Não binario</option> 
         </select>
         </label>
         <label htmlFor="image" className="text"> Imagem: 
