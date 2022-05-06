@@ -21,7 +21,7 @@ function ProtectedPage() {
   return <div className="body1">
     <div><Listpets/></div>
     
-
+     
   <img src={dogs24} className="Dogs4" alt="logo" />
   
   </div>;

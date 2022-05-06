@@ -67,9 +67,10 @@ function Listpets() {
               <option  value="Fêmea">Fêmea</option> 
         </select>
         </label>
-        <label className="text"> Imagem: 
-        <input className='inputclass' type="url" name="url" />{''}</label>
-        <button className='allbutton' type="submit">Enviar</button>
+        <label htmlFor="image" className="text"> Imagem: 
+        <input className='inputclass' type="url" name="url"  />
+        </label>
+        <button className='allbutton' type="submit" >Enviar</button>
       </form>
     </div>
   );

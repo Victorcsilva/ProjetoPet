@@ -1,13 +1,38 @@
 .card{
     display: flex;
     background-color: #E8D6B4;
-    border:10px solid #311C00;
-    border-radius: 250%;
+    border:30px 40px solid #311C00;
+    border-radius: 297px 290px 10px ;
     border-block-end-style:dashed; 
     border-block-start-style: dashed; 
     text-align: center;
     flex-direction: column;
-    height: 300px;
-    width: 300px;
+    height: 500px;
+    width: 540px;
+    justify-content: center;
+    margin-left: 50px;
 
+}
+
+.textcard{
+     margin-left: 290px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 19px;
+    text-align: center;
+    background-image: linear-gradient(rgb(41, 24, 0),#ce760b);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color:transparent;
+}
+
+.picture{
+    height: 230px;
+    width: 290px;
+    border:10px solid #311C00;
+    border-radius: 250%;
+    border-block-end-style:dashed; 
+    border-block-start-style: dashed;
+    display: flex ;
+ position: absolute;
+ 
 }

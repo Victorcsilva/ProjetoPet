@@ -27,6 +27,7 @@ console.log(data)
     <Card name={element.name} breed={element.breed} species={element.species} age={element.age}
     gender={element.gender} url={element.url} /> )
     }
+    
     <img src={dogs23} className="Dogs" alt="logo" />
   </div>;
 }
