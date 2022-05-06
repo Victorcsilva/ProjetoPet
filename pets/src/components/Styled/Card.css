@@ -1,0 +1,13 @@
+.card{
+    display: flex;
+    background-color: #E8D6B4;
+    border:10px solid #311C00;
+    border-radius: 250%;
+    border-block-end-style:dashed; 
+    border-block-start-style: dashed; 
+    text-align: center;
+    flex-direction: column;
+    height: 300px;
+    width: 300px;
+
+}

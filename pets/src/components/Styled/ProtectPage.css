@@ -1,0 +1,11 @@
+.body1{
+    
+    justify-content:center;
+   gap: 50px;
+   display: flex;
+   flex-direction: column;
+}
+.Dogs4{
+    justify-content: center;
+    margin-left: 250px;
+}
